@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=./libs/testlink-api-client-2.0.jar -DgroupId=testlink -DartifactId=testlink-api-client -Dversion=2.0 -Dpackaging=jar -DgeneratePom=true
